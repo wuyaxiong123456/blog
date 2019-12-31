@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'blog_yuwenq.apps.BlogYuwenqConfig'
+=======
+    'motangsTest.apps.MotangstestConfig',
+>>>>>>> e671a63813bf48da1d1acc8961ac21ebd97faccd
 ]
 
 MIDDLEWARE = [
