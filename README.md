@@ -4,6 +4,6 @@ we are a team
 
 ## Contributors
 
-* MoTangS(https://github.com/MoTangS)
+* [wuyaxiong123456](https://github.com/wuyaxiong123456)
 
 
