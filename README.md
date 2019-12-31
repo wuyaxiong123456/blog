@@ -1,5 +1,13 @@
 # myblog
 
-于文清的博客
+we are a team
+
 ## Contributors
+
+* [mrzhaojianb](https://github.com/mrzhaojianb/)
+
+* [MoTangS](https://github.com/MoTangS)
+
 * [Qiqi-aircat](https://github.com/Qiqi-aircat)
+
+
