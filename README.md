@@ -8,4 +8,6 @@ we are a team
 
 * [MoTangS](https://github.com/MoTangS)
 
+* [Qiqi-aircat](https://github.com/Qiqi-aircat)
+
 
