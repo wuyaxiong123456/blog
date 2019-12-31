@@ -18,5 +18,4 @@ we are a team
 
 * [hxq123-qing](https://github.com/hxq123-qing)
 
-* [qws743](http://github.com/qws743）
-
+* [qws743](http://github.com/qws743)
