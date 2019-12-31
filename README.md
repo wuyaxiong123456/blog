@@ -1,9 +1,9 @@
 # myblog
 
-we are a team
+
+we are a tream
 
 ## Contributors
-* [chi412](https://github.com/chi412)
 
 * [wuyaxiong123456](https://github.com/wuyaxiong123456)
 
@@ -15,5 +15,5 @@ we are a team
 
 * [Qiqi-aircat](https://github.com/Qiqi-aircat)
 
-
+* [hxq123-qing](https://github.com/hxq123-qing)
 
