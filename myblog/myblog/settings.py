@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blog_zhaojianbing.apps.BlogZhaojianbingConfig'
+    'blog_zhaojianbing.apps.BlogZhaojianbingConfig',
+    'blog_hxq.apps.BlogHxqConfig',
+    'blog_yuwenq.apps.BlogYuwenqConfig'
+    'motangsTest.apps.MotangstestConfig',
 ]
 
 MIDDLEWARE = [
