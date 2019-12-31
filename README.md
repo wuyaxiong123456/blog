@@ -1,12 +1,8 @@
 # myblog
 
-
-we are a tream
+we are a team
 
 ## Contributors
-
-
-*[bocaicai1](https://github.com/shenjianeng123/blog)
 
 * [wuyaxiong123456](https://github.com/wuyaxiong123456)
 
