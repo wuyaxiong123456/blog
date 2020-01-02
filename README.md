@@ -1,7 +1,6 @@
 # myblog
 
-
-we are a tream
+we are a team
 
 ## Contributors
 
